@@ -1,6 +1,6 @@
 # Team Charizard NUber Project
 
-For Mr. Diaz's CS 3398 Software Engineering class, we have created a RESTful API which will serve as the backend for our new, ingenius, never-before-thought-of business proposal...NUber
+The project was written for Professor Jason Diaz's CS 3398 Software Engineering class at Texas State University. The project was done in conjuction with myself, Brent Redmon, Blake Allen, Jacob Gibson, Connor Oldmixon, Sam Coyle, and Cassie Coyle. Together, we created a RESTful API which will serve as the backend for our system.
 
 <hr>
 
@@ -44,19 +44,3 @@ For Mr. Diaz's CS 3398 Software Engineering class, we have created a RESTful API
 * Debugger PIN: 295-600-791
 ```
 <hr>
-
-### Routes
-Below are the available list of routes and their functionalities
-
-#### Admin
-- ```/admin/driver```
-  - GET: Returns a list of all drivers in the database
-    - Arguments: None
-  - POST: Creates a new driver
-    - Arguments: 
-      - id: integer
-      - name: string
-  - DELETE: Deletes a driver from the database
-    - Arguments:
-      - id: integer
-- blah
